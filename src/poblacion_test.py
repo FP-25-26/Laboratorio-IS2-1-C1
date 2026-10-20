@@ -22,6 +22,6 @@ def test_lectura():
     print("El ultimo registro: ", REGISTROS[-1])
 
 if __name__ == "__main__":
-    #test_lectura()
+    test_lectura()
     #test_calcula_paises()
-    test_filtra_por_pais()
+    #test_filtra_por_pais()
